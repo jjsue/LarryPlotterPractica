@@ -5,5 +5,6 @@
 * Larry Plotter y El Prisionero de los anuncios de Torrent
 * Larry Plotter y El firewall con mas de 50 reglas
 * Larry Plotter y La malvada Apple
-* Larry Plotter y Larry Plotter
+* Larry Plotter y la copia malvada Larre Pletter
+
 
